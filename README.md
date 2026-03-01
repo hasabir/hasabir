@@ -37,26 +37,36 @@
 ```python
 class HajarSabir:
     def __init__(self):
-        self.role     = "Software Engineer & AI/ML Developer"
+        self.role = "Software Engineer & AI/ML Developer"
+        
+        self.education = "Digital Technology Architect | 1337 School (42 Network)"
+        
         self.location = "Morocco 🇲🇦"
-        self.focus    = ["Machine Learning", "Deep Learning", "Systems Programming"]
-        self.hobbies  = ["building kernels", "training models", "writing worlds"]
-        # yes, the last one is fiction — not every problem needs a compiler 🤫
-
+        
+        self.focus = ["Machine Learning", "Deep Learning", "System Programming"]
+        
         self.experience = [
-            "AI/ML Developer @ UM6P Medical Sciences (2024) — RAG chatbot, 3 models, MLOps pipelines",
-            "Digital Technology Architect @ 1337 School, 42 Network (2021–2025)",
-        ]
+    "AI/ML Developer @ UM6P Medical Sciences (2024) — RAG chatbot, 3 production models, MLOps pipelines",
+    "Digital Technology Architect @ 1337 School 42 Network (2021–2025)",
+]
 
+        self.hobbies = ["building kernels", "training models", "writing worlds"] # yes, the last one is fiction, not code -not every problem needs a compiler 🤫
+
+  
     def get_philosophy(self):
         return "understand every layer — from transistors to transformers"
 
+
     def contact_me(self):
+        """Let's build something amazing together! 🚀"""
         return {
-            "email":    "sabirhajar048@gmail.com",
+            "email": "sabirhajar048@gmail.com",
             "linkedin": "linkedin.com/in/hajar--sabir/",
-            "github":   "github.com/hasabir",
+            "github": "github.com/hasabir",
+            "portfolio": "42 Profile",
+            "response_time": "Usually within 24 hours ⚡"
         }
+
 ```
 
 <details>
