@@ -50,7 +50,8 @@ class HajarSabir:
     "Digital Technology Architect @ 1337 School 42 Network (2021–2025)",
 ]
 
-        self.hobbies = ["building kernels", "training models", "writing worlds"] # yes, the last one is fiction, not code -not every problem needs a compiler 🤫
+        self.hobbies = ["building kernels", "training models", "writing worlds"]
+        # yes, the last one is fiction, not code -not every problem needs a compiler 🤫
 
   
     def get_philosophy(self):
