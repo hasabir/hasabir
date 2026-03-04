@@ -129,7 +129,6 @@ class HajarSabir:
 
 <br/>
 
-## 💼 Professional Journey
 
 
 ## 🚀 Projects
@@ -139,7 +138,8 @@ class HajarSabir:
 | Project | Description | Stack | Highlight |
 |---|---|---|---|
 | [**Sentiment Analysis Engine**](https://github.com/hasabir/tweets_42) | Twitter sentiment classifier using ensemble ML | Python, NLTK, Scikit-learn, Word2Vec | **87.3% accuracy** with Random Forest + SVM; 10× faster training via multiprocessing |
-| [**Customer Churn Predictor**](https://github.com/hasabir/dslr_42) | Neural network for bank churn prediction | Keras, TensorFlow, GridSearchCV | **80% accuracy**; outperformed baseline classifiers by 15% |
+| [**dslr**](https://github.com/hasabir/dslr_42) | Harry Potter-themed logistic regression from scratch | Python, NumPy, Pandas, Matplotlib | Multi-class classification, data visualization, statistical analysis |
+| [**ft_linear_regression**](https://github.com/hasabir) | Linear regression from scratch | Python, NumPy, Matplotlib | Gradient descent implementation, visualization, model evaluation |
 | [**Plant Disease Detector**](https://github.com/hasabir/Leaffliction_42) | Leaf disease recognition via CNN | TensorFlow, OpenCV, Python | Multi-class classification with data augmentation pipeline |
 | [**Medical RAG Chatbot**](https://github.com/hasabir) | Context-aware chatbot for medical documents | LangChain, Vector DB, Docker | Deployed in live hospital information system |
 
