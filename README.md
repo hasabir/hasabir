@@ -2,7 +2,7 @@
   
 # 🌟 Hajar Sabir
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Software+Engineer+%7C+AI%2FML+Developer;Building+Intelligence+from+Code;1337+%7C+42+Network+%7C+UM6P;From+Low-Level+Systems+to+Neural+Networks" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Software+Engineer;Building+Intelligence+from+Code;1337+%7C+42+Network+%7C+UM6P;From+Low-Level+Systems+to+Neural+Networks" alt="Typing SVG" />
 
 <br/>
 
@@ -37,13 +37,13 @@
 ```python
 class HajarSabir:
     def __init__(self):
-        self.role = "Software Engineer & AI/ML Developer"
+        self.role = "Software Engineer | AI/ML Developer | Systems Programmer"
         
         self.education = "Digital Technology Architect | 1337 School (42 Network)"
         
         self.location = "Morocco 🇲🇦"
         
-        self.focus = ["Machine Learning", "Deep Learning", "System Programming"]
+        self.focus = ["Machine Learning", "Deep Learning", "Kernel Development", "System Programming"]
         
         self.experience = [
     "AI/ML Developer @ UM6P Medical Sciences (2024) — RAG chatbot, 3 production models, MLOps pipelines",
@@ -77,10 +77,10 @@ class HajarSabir:
 > I'm fascinated by the intersection of **low-level systems programming** and **high-level artificial intelligence**. From writing kernels in Assembly to training neural networks, I believe understanding both extremes makes you a better engineer. My journey at 1337 School has taught me that **the best solutions come from deep understanding, not surface-level implementation**.
 
 **Core Principles:**
-- 🎯 **Quality over Quantity** - Every line of code should serve a purpose
-- 🧠 **Learn by Building** - Theory is useless without practical application  
-- 🔄 **Iterate & Improve** - First make it work, then make it better
-- 🤝 **Collaborate & Share** - Knowledge grows when shared
+-  **Quality over Quantity** - Every line of code should serve a purpose
+-  **Learn by Building** - Theory is useless without practical application  
+-  **Iterate & Improve** - First make it work, then make it better
+-  **Collaborate & Share** - Knowledge grows when shared
 
 </details>
 
