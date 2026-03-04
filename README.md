@@ -152,7 +152,8 @@ class HajarSabir:
 | [**Unix Kernel From Scratch**](https://github.com/khadija-mahdi/Kernel-from-Scratch) | Full Unix-like OS kernel | C, x86 Assembly, GRUB | Process scheduling, virtual memory, custom bootloader, device drivers |
 | [**WebServ**](https://github.com/hasabir) | Non-blocking HTTP/1.1 server | C++98, Sockets, CGI | epoll/kqueue I/O, virtual hosts, CGI execution, chunked transfer |
 | [**Minishell**](https://github.com/hasabir) | Bash-like shell from scratch | C, Unix Syscalls | Pipes, redirections, signal handling, environment management |
-| [**Inception**](https://github.com/hasabir) | Multi-container Docker infrastructure | Docker, NGINX, MariaDB | Custom images, TLS, WordPress + PHP-FPM, compose orchestration |
+| [**Matt_daemon**](https://github.com/khadija-mahdi/Matt_daemon) | Unix daemon process with logging system | C, Syslog, File Locking | Background service, PID management, privilege separation, signal handling |
+| [**taskmaster**](https://github.com/khadija-mahdi/taskmaster) | Process supervisor (Supervisor-like) | Python, Unix Processes | Auto-restart, config reloading, stdout/stderr capture, resource control |
 
 ---
 
@@ -161,8 +162,26 @@ class HajarSabir:
 | Project | Description | Stack | Highlight |
 |---|---|---|---|
 | [**Matcha**](https://github.com/hasabir/matcha_42) | Full-stack dating platform | Flask, PostgreSQL, Socket.IO, JWT | Collaborative filtering matching, geolocation (50km radius), real-time chat |
-| [**ft_transcendence**](https://github.com/hasabir) | Real-time multiplayer Pong platform | TypeScript, React, NestJS, WebSockets | Live game engine, OAuth 2.0, matchmaking, leaderboard |
 | [**Darkly**](https://github.com/hasabir/darkly) | Web security vulnerability assessment | OWASP Top 10, Burp Suite | 14+ vulnerabilities found: SQLi, XSS, session hijacking, open redirects |
+
+---
+
+### 🎮 Games and 3D
+
+| Project | Description | Stack | Highlight |
+|---|---|---|---|
+| [**Cube3D**](https://github.com/hasabir) | Raycasting 3D game engine (Wolfenstein-style) | C, MinilibX, Raycasting | Real-time 3D rendering, texture mapping, collision detection |
+| [**FdF**](https://github.com/hasabir) | 3D wireframe terrain visualizer | C, MinilibX, Graphics | Isometric & parallel projections, height map parsing, rotation controls |
+| [**ft_transcendence**](https://github.com/hasabir) | Real-time multiplayer Pong platform | TypeScript, React, NestJS, WebSockets | Live game engine, OAuth 2.0, matchmaking, leaderboard |
+
+---
+
+### 🐳 DevOps
+
+| Project | Description | Stack | Highlight |
+|---|---|---|---|
+| [**Inception**](https://github.com/hasabir) | Multi-container Docker infrastructure | Docker, NGINX, MariaDB | Custom images, TLS, WordPress + PHP-FPM, compose orchestration |
+| [**Inception of Things**](https://github.com/hasabir) | Kubernetes infrastructure & CI/CD automation | K3s, K3d, ArgoCD, GitLab | Multi-node cluster, GitOps workflow, automated deployment pipeline |
 
 ---
 
